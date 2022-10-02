@@ -1,8 +1,8 @@
-# Welcome to Shopee!
+# Welcome to Rich Text Editor!
 
 ## Introduction
 
-This is an eCommerce application built with React JS!
+This is an advanced text editor built with HTML, CSS, Javascript.
 
 ## Installation
 
